@@ -5,6 +5,7 @@ import java.util.Scanner;
 //to Celsius and Celsius to Kelvin
 public class Main {
     public static void main(String[] args) {
+        // Ryan typed this
         Scanner in = new Scanner (System.in);
 
         //Requesting input from user. Input requested is a whole or decimal number
